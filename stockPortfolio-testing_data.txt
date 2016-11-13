@@ -1,0 +1,4 @@
+p = Portfolio()
+p.buy("IBM", 100, 150.0)
+p.buy("HPQ", 100, 30.0)
+p.current_prices()
